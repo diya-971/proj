@@ -1,0 +1,10 @@
+Filesystem            Type      Size  Used Avail Use% Mounted on
+devtmpfs              devtmpfs  4.0M     0  4.0M   0% /dev
+tmpfs                 tmpfs     872M     0  872M   0% /dev/shm
+tmpfs                 tmpfs     349M  7.3M  342M   3% /run
+/dev/mapper/rhel-root xfs        17G  6.3G   11G  39% /
+/dev/nvme0n1p2        xfs       960M  296M  665M  31% /boot
+/dev/nvme0n1p1        vfat      599M  7.1M  592M   2% /boot/efi
+tmpfs                 tmpfs     175M   96K  175M   1% /run/user/1000
+/dev/sr0              iso9660   117M  117M     0 100% /run/media/diyapaul/CDROM
+/dev/sr1              iso9660    11G   11G     0 100% /run/media/diyapaul/RHEL-9-4-0-BaseOS-x86_64
